@@ -1,0 +1,22 @@
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Project datasets
+data_raw/
+data_processed/
+
+# Logs
+*.log
