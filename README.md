@@ -1,3 +1,4 @@
+
 # Day-Ahead Electricity Demand Forecasting Using Machine Learning
 
 **Feature Engineering | Ensemble Learning | Time-Series Cross-Validation | Model Comparison**
@@ -67,6 +68,7 @@ The analysis identified strong daily and weekly patterns, motivating the use of 
 Three groups of predictive features were developed.
 
 **Calendar Features**
+
 - Hour of day
 - Day of week
 - Month
@@ -74,11 +76,13 @@ Three groups of predictive features were developed.
 - Forecast horizon
 
 **Historical Load Features**
+
 - 24-hour lag
 - 48-hour lag
 - 168-hour lag
 
 **Rolling Statistics**
+
 - 24-hour rolling mean and standard deviation
 - 168-hour rolling mean and standard deviation
 
